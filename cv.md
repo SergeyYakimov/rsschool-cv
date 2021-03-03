@@ -6,6 +6,25 @@
 - Tel.: +7(914)878-99-49
 - E-mail: s.yakimov87@yandex.ru
 
+## Code Examples
+
+<https://github.com/SergeyYakimov> - my github page
+
+_And, for example,_
+
+```javascript
+export function parse(value = '') {
+  if (value.startsWith('=')) {
+    try {
+      return eval(value.slice(1));
+    } catch (e) {
+      return value;
+    }
+  }
+  return value;
+}
+```
+
 ## Work Experience
 
 - **2019 - Web studio "In-Site" (webmaster)**
