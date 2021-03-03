@@ -6,6 +6,14 @@
 - Tel.: +7(914)878-99-49
 - E-mail: s.yakimov87@yandex.ru
 
+## Skills
+
+- HTML, CSS, Sass
+- Javascript
+- PHP
+- Git
+- Visual Studio Code, Webstorm, Adobe Photoshop
+
 ## Code Examples
 
 <https://github.com/SergeyYakimov> - my github page
