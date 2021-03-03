@@ -6,6 +6,10 @@
 - Tel.: +7(914)878-99-49
 - E-mail: s.yakimov87@yandex.ru
 
+## Summary
+
+Self-motivated, inquisitive, interested to details.
+
 ## Skills
 
 - HTML, CSS, Sass
