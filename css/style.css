@@ -62,7 +62,8 @@ ul > li {
 .education,
 .contacts,
 .skills,
-.level {
+.level,
+.example {
   margin-top: 20px;
   margin-bottom: 20px;
 }
